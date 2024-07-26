@@ -1,7 +1,7 @@
 Hi 👋 My name is Delia Green
 ============================
 
-MBS Student - Data Analytics
+MBS - Data Analytics
 ----------------------------
 
 I'm passionate about expanding my skills in Python, data science, and machine learning. With a solid foundation in accounting, I am committed to embracing new challenges in the world of programming and technology
