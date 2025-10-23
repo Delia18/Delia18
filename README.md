@@ -38,3 +38,19 @@ I'm passionate about expanding my skills in Python, data science, and machine le
 
 
 
+## Amy Profile Application
+
+The repository now includes a small command-line utility to quickly
+generate a profile for Amy and save it as JSON. To run the tool:
+
+```bash
+python amy_profile_app.py            # interactive prompts
+python amy_profile_app.py --use-defaults  # skip prompts and use preset data
+python amy_profile_app.py --output custom_profile.json
+```
+
+After running, the generated JSON file (``amy_profile.json`` by default)
+contains the collected details that can be imported into other
+applications or shared as needed.
+
+
