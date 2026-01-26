@@ -1,10 +1,13 @@
-Hi 👋 My name is Delia Green
+Hi 👋 I’m Delia Green
 ============================
 
 MBS - Data Analytics
 ----------------------------
 
-I'm passionate about expanding my skills in Python, data science, and machine learning. With a solid foundation in accounting, I am committed to embracing new challenges in the world of programming and technology
+Finance & Accounting professional with a strong focus on innovation, 
+exploring how AI can enhance financial workflows, governance, and decision-making.
+
+This GitHub documents how I learn, build, and think — in public.
 
 * ✉️  You can contact me at [deliapebe18@hotmail.com](mailto:deliapebe18@hotmail.com)
 * 🧠  I'm learning R, Python, SQL, Tableau
